@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Coursera Lesson"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bootstrap"
+	}
+}
